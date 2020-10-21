@@ -38,7 +38,7 @@
                 "type": "Shell",
                 "name": "InstallUpgradesAndHTOP",
                 "inline": [
-                    "sudo yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm -y", "sudo yum update -y", "sudo yum upgrade -y", "sudo yum install htop"
+                    "sudo yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm -y", "sudo yum update -y", "sudo yum upgrade -y", "sudo yum install htop -y"
                 ]
             }
         ],
