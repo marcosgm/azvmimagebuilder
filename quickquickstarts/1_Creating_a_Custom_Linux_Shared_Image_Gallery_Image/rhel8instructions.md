@@ -1,3 +1,5 @@
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/image-builder
+
 # set your environment variables here!!!!
 
 # Create SIG  resource group
